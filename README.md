@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ashish146
-- 👀 I’m interested in Software development.......
-- 🌱 I’m currently working on latest framework of .Net BLAZOR
-- 💞️ I’m looking to collaborate on Soft. development
-- 📫 How to reach me ==> Call me at +91-7007143394
+🔧 Software Engineer | 7+ Years of Experience
+👨‍💻 Specializing in Development with the latest Microsoft frameworks, jQuery, Azure and others
+💻 Passionate about clean code, scalable solutions, and continuous learning
+🌐 Experienced with GitHub for version control and collaborative development
+🚀 Currently diving into Generative AI to explore the future of tech
 
-<!---
-ashish146/ashish146 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to check out my repositories and contributions!
+📫 How to reach me ==> Call me at +91-7007143394
